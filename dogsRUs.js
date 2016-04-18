@@ -41,7 +41,11 @@ function refine(){
 		document.getElementById("large").checked = largeChecked;
 	}
 
+<<<<<<< HEAD
+}
+=======
 	
 	
 	
 }
+>>>>>>> ce865f962e585d5c9009a062dc71dca921169915

@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+ivycheung.xyz
+=======
 =======
 # DogsRUs
 Turning Ideas Into Reality: Spring 2016
@@ -32,3 +36,4 @@ Added user story: As a user, I would want to narrow down my choices by filtering
 Notes... Only have sizes as a filtering criteria for now. When there's available data from the database, we will stop hard-coding. 
 
 
+>>>>>>> ce865f962e585d5c9009a062dc71dca921169915
